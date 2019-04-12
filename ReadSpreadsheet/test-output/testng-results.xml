@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2368" started-at="2019-03-29T08:34:16Z" finished-at="2019-03-29T08:34:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2368" started-at="2019-03-29T08:34:16Z" finished-at="2019-03-29T08:34:19Z">
+      <class name="com.qait.ReadSpreadsheet.SpreadsheetTest">
+        <test-method status="PASS" signature="Test01_readData()[pri:0, instance:com.qait.ReadSpreadsheet.SpreadsheetTest@23e028a9]" name="Test01_readData" duration-ms="1433" started-at="2019-03-29T14:04:16Z" finished-at="2019-03-29T14:04:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_readData -->
+        <test-method status="PASS" signature="whenWriteSheet_thenReadSheetOk()[pri:0, instance:com.qait.ReadSpreadsheet.SpreadsheetTest@23e028a9]" name="whenWriteSheet_thenReadSheetOk" duration-ms="916" started-at="2019-03-29T14:04:18Z" finished-at="2019-03-29T14:04:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- whenWriteSheet_thenReadSheetOk -->
+      </class> <!-- com.qait.ReadSpreadsheet.SpreadsheetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
